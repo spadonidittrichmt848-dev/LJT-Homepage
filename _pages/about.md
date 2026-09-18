@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a first-year Ph.D. candidate at the **[HKUST NLP Group](https://github.com/hkust-nlp)**, Hong Kong University of Science and Technology (HKUST), where I pursue a Ph.D. in Computer Science (2024 -- Present). My Ph.D. supervisor is **Professor Junxian He**.
+I am a first-year Ph.D. candidate at the **HKUST NLP Group**, Hong Kong University of Science and Technology (HKUST), where I am pursuing a Ph.D. in Computer Science (2024 -- Present). My Ph.D. supervisor is **Professor Junxian He**.
 
 I received my B.Eng. from **Shanghai Jiao Tong University (SJTU)** in June 2024 (2020 -- 2024). Professor Junxian He also advised me during my undergraduate studies at SJTU.
 
@@ -38,21 +38,17 @@ My research focuses on **natural language processing** and **machine learning**.
 
 # Publications
 
-**\* denotes equal contribution.**
-
-{% include base_path %}
-
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**\
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He\
-   *arXiv*, 2025. ([GitHub code repository](https://github.com/Vicent0205))
+   *arXiv*, 2025. Code available on GitHub.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**\
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He\
-   *arXiv*, 2025. ([GitHub code repository: Vision4Chart](https://github.com/Vicent0205))
+   *arXiv*, 2025. Code available on GitHub (Vision4Chart).
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**\
    **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He\
-   *EMNLP 2024*. ([GitHub code repository: Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205))
+   *EMNLP 2024*. Code available on GitHub (Universal_Truthfulness_Hyperplane).
 
 4. In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation\
    Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He\
